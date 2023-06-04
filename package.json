@@ -1,5 +1,5 @@
 {
-  "name": "action-setup-firebase",
+  "name": "github-action-setup-firebase",
   "version": "2",
   "description": "Setup firebase tools CLI",
   "main": "lib/main.js",
