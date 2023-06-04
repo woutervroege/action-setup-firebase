@@ -1,6 +1,5 @@
 name: Setup Firebase CLI
 description: Setup firebase-tools CLI
-author: Pocket Studios
 branding:
   color: red
   icon: terminal
