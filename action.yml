@@ -1,4 +1,4 @@
-name: Setup Firebase CLI
+name: Install & Setup Firebase CLI
 description: Setup firebase-tools CLI
 branding:
   color: red
